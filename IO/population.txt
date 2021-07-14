@@ -1,0 +1,7 @@
+City;Ashdod;20;20;50;90;1000
+#;Ashdod;Beer-Sheva
+#;Ashdod;Sderot
+City;Beer-Sheva;80;20;10;50;1500
+Moshav;Yavne;75;170;20;100;3000
+City;Sderot;150;80;15;15;1000
+#;Yavne;Sderot
